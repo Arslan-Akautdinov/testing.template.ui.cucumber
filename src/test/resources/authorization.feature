@@ -1,5 +1,7 @@
 #language:ru
 
+
+@all
 #noinspection NonAsciiCharacters
 Функция: Провека авторизация пользователя с коректными и не корректными данными
 
